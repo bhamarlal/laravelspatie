@@ -28,4 +28,7 @@ class HomeController extends Controller
     public function hieveryone(){
         echo"hi every one ";
     }
+    public function new(){
+        echo"this is the new functio iam uploading on the git hub";
+    }
 }
