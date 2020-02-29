@@ -34,4 +34,8 @@ class HomeController extends Controller
     public function staticfunction(){
         echo"this is the static function";
     }
+    public function checkgitstatus(){
+        echo"finally we check the git status";
+
+    }
 }
