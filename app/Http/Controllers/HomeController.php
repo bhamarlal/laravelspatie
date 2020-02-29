@@ -38,4 +38,7 @@ class HomeController extends Controller
         echo"finally we check the git status";
 
     }
+    public function add(){
+        echo"finally add the second function";
+    }
 }
