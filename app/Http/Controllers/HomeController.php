@@ -31,4 +31,7 @@ class HomeController extends Controller
     public function new(){
         echo"this is the new functio iam uploading on the git hub";
     }
+    public function staticfunction(){
+        echo"this is the static function";
+    }
 }
