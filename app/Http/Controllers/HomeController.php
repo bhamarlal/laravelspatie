@@ -25,4 +25,7 @@ class HomeController extends Controller
     {
         return view('home');
     }
+    public function hieveryone(){
+        echo"hi every one ";
+    }
 }
